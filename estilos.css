@@ -1,0 +1,33 @@
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+	margin: 100px auto;
+	align-items: center;
+	background: whitesmoke;
+}
+h1{
+	font-size: 65px;
+	font-family: fantasy;
+	font-weight: 600;
+	color: #faa;
+}
+button{
+	font-size: 30px;
+	font-weight: 400;
+	color: #fff;
+	height: 70px;
+	width: 200px;
+	background: red;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+}
+img{
+	border-radius: 50%;
+	border: solid 2px yellow;
+}
+p{
+	text-align: left;
+}
